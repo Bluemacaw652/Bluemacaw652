@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Bluemacaw652
 - 👀 I’m interested in BLOCKCHAIN PROGRAMMING
-- 🌱 I’m currently learning ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+
+- 🌱 I’m currently learning
+-  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 - 📫 How to reach me - macaw652@gmail.com
 
 <!---
